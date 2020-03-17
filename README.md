@@ -4,4 +4,4 @@ CSS Flexible Box Layout, generally called CSS Flexbox, was designed as a one-dim
 
 ![flexbox](https://github.com/teles1g/flex-blog/blob/master/flexbox-css.png)
 
-Official documentation: https://www.w3.org/TR/css-flexbox-1/
+Documentation: https://www.w3.org/TR/css-flexbox-1/
